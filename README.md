@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile! I'm Hazem
 
-I'm a junior computer science student at Nile University, and I'm on an exciting journey to become a full-stack web developer. Ihave a great knowlegde in  full-stack web development and that  covers a wide range of topics like :  HTML and CSSo, JavaScript, React, Node.js, and more.
+I'm a junior computer science student at Nile University, and I'm on an exciting journey to become a full-stack web developer. Ihave a great knowlegde in  full-stack web development and that  covers a wide range of topics like :  HTML and CSS, JavaScript, React, Node.js, and more.
 
 
 
